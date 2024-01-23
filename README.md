@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Chanuth
 - 👀 I’m interested in Frontend and Backend
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m graduated from university of westminster
+- 📫 How to reach me through email. chanuthtitans2@gmail.com
 
 <!---
 Chanuth/Chanuth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
