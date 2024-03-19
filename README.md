@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Chanuth WIjesekara from Sri Lanka, Galle<br><br>- 🔭 I’m working as Fullstack Developer<br>- ⚡ In my free time I watch movies, play cricket, play games</p>
 
 ###
 
